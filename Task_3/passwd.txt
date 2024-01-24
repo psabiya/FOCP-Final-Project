@@ -1,0 +1,2 @@
+admin:admin:<function encrypt_user_password at 0x00000191F67F94E0>
+super:super:1b3231655cebb7a1f783eddf27d254ca
